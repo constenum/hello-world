@@ -1,3 +1,3 @@
 # Hello World
 
-## September 8
+## September 8, 2016
